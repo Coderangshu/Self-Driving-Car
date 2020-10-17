@@ -1,8 +1,8 @@
 # Self-Driving-Car
 Lateral and longitudinal controller for vehicle using stanley model for lateral control
-  -The pathway for the vehicle has to be provided to it(provided by default)<br>
+  <p>-The pathway for the vehicle has to be provided to it(provided by default)<br>
   -The code has to be run in Carla Simulation made by unity engine<br>
-  -To run the simulator:<br>
+  -To run the simulator:<br></p>
     *In LINUX:<br>
       ./CarlaUE4.sh /Game/Maps/RaceTrack -windowed -carla-server -benchmark -fps=30<br>
     *In Windows:<br>
