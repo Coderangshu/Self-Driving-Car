@@ -16,5 +16,7 @@ Lateral and longitudinal controller for vehicle using stanley controller for lat
     *In Windows:<br>
       python module_7.py<br>
 </pre>
-  -The trajectory followed here is:<br>
+  -The trajectory followed here is:<br><br>
   <img src=controller_output/trajectory.png width=550 height=570>
+  -The steering output is plotted below:<br><br>
+  <img src=controller_output/steer_output.png>
