@@ -8,7 +8,9 @@ Lateral and longitudinal controller for vehicle using stanley controller for lat
       ./CarlaUE4.sh /Game/Maps/RaceTrack -windowed -carla-server -benchmark -fps=30<br>
     *In Windows:<br>
       CarlaUE4.exe /Game/Maps/RaceTrack -windowed -carla-server -benchmark -fps=30<br>
+      </pre>
   -To run the controller:<br>
+  <pre>
     *In LINUX:<br>
       python3 module_7.py<br>
     *In Windows:<br>
