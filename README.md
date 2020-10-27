@@ -19,4 +19,6 @@ Lateral and longitudinal controller for vehicle using stanley controller for lat
   -The trajectory followed here is:<br><br>
   <img src=controller_output/trajectory.png width=550 height=570><br>
   -The steering output using PID controller is plotted below:<br><br>
-  <img src=controller_output/steer_output.png>
+  <img src=controller_output/steer_output.png><br>
+  -The throttle and speed output is shown below respectively:<br>
+  <img src=controller_output/throttle_output.png><img src=controller_output/forward_speed.png>
