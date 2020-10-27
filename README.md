@@ -17,4 +17,4 @@ Lateral and longitudinal controller for vehicle using stanley controller for lat
       python module_7.py<br>
 </pre>
   -The trajectory followed here is:
-  <img src=controller_output/trajectory.png width=150 height=170>
+  <img src=controller_output/trajectory.png width=550 height=570>
